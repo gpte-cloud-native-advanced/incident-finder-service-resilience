@@ -1,0 +1,3 @@
+INCIDENTS_MP_REST_URL=http://incident-service-user46-er-demo.apps.cluster-03b3.03b3.example.opentlc.com
+MISSIONS_MP_REST_URL=http://mission-service-user46-er-demo.apps.cluster-03b3.03b3.example.opentlc.com
+SHELTERS_MP_REST_URL=http://disaster-service-user46-er-demo.apps.cluster-03b3.03b3.example.opentlc.com
